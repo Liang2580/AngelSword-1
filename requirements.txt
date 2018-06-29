@@ -1,0 +1,7 @@
+requests
+bs4
+redis
+pexpect
+termcolor
+pymysql
+pymongo
