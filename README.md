@@ -37,5 +37,5 @@ pymongo
 [+] 增加针对登录后的poc检测，在AngelSword目录下新建cookies.txt文件，将Cookie的值粘贴进去。维持cookie的poc带有标识"需要cookies文件"。
 
 # bugs
-hanmengzi1993@gmail.com
+angelkitty6698@gmail.com
 
